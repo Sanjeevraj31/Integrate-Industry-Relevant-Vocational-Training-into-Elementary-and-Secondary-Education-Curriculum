@@ -1,0 +1,752 @@
+[
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac73",
+    "title": "Robotics Workshop for Beginners",
+    "description": "Learn the fundamentals of Robotics Workshop for Beginners designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Robotics",
+    "duration": "4 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac58",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000000000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac74",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac75",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac76",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac77",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac78",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Robotics",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac5f",
+      "6a4f4a93dfebdfca1ae4ac6e"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac79",
+    "title": "Introduction to Artificial Intelligence",
+    "description": "Learn the fundamentals of Introduction to Artificial Intelligence designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Artificial Intelligence",
+    "duration": "6 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac59",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000010000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac7a",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac7b",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac7c",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac7d",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac7e",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Artificial Intelligence",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac60",
+      "6a4f4a93dfebdfca1ae4ac6e",
+      "6a4f4a93dfebdfca1ae4ac6f"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac7f",
+    "title": "Python Programming Essentials",
+    "description": "Learn the fundamentals of Python Programming Essentials designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Python Programming",
+    "duration": "5 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5a",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000020000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac80",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac81",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac82",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac83",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac84",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Python Programming",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac60",
+      "6a4f4a93dfebdfca1ae4ac61",
+      "6a4f4a93dfebdfca1ae4ac70"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac85",
+    "title": "Responsive Web Design Mastery",
+    "description": "Learn the fundamentals of Responsive Web Design Mastery designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Web Development",
+    "duration": "8 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5b",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000030000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac86",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac87",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac88",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac89",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac8a",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Web Development",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac62",
+      "6a4f4a93dfebdfca1ae4ac70",
+      "6a4f4a93dfebdfca1ae4ac71"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac8b",
+    "title": "Graphic Design and UI layouts",
+    "description": "Learn the fundamentals of Graphic Design and UI layouts designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Graphic Design",
+    "duration": "4 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5c",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000040000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac8c",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac8d",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac8e",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac8f",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac90",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Graphic Design",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac62",
+      "6a4f4a93dfebdfca1ae4ac63",
+      "6a4f4a93dfebdfca1ae4ac72"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac91",
+    "title": "Digital Marketing Fundamentals",
+    "description": "Learn the fundamentals of Digital Marketing Fundamentals designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Digital Marketing",
+    "duration": "3 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac58",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000050000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac92",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac93",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac94",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac95",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac96",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Digital Marketing",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac64",
+      "6a4f4a93dfebdfca1ae4ac72"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac97",
+    "title": "House Wiring & Electrical Basics",
+    "description": "Learn the fundamentals of House Wiring & Electrical Basics designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Electrical Basics",
+    "duration": "4 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac59",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000060000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac98",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac99",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac9a",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac9b",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac9c",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Electrical Basics",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac64",
+      "6a4f4a93dfebdfca1ae4ac65"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac9d",
+    "title": "Electronics and Microcontrollers",
+    "description": "Learn the fundamentals of Electronics and Microcontrollers designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Electronics",
+    "duration": "6 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5a",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000070000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac9e",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ac9f",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca0",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca1",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca2",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Electronics",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac66"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4aca3",
+    "title": "Modern Sustainable Agriculture",
+    "description": "Learn the fundamentals of Modern Sustainable Agriculture designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Agriculture",
+    "duration": "6 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5b",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000080000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca4",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca5",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca6",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca7",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aca8",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Agriculture",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac66",
+      "6a4f4a93dfebdfca1ae4ac67"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4aca9",
+    "title": "Basic Fashion & Apparel Design",
+    "description": "Learn the fundamentals of Basic Fashion & Apparel Design designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Fashion Design",
+    "duration": "5 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5c",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000090000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acaa",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acab",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acac",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acad",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acae",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Fashion Design",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac68"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acaf",
+    "title": "Woodworking & Carpentry Basics",
+    "description": "Learn the fundamentals of Woodworking & Carpentry Basics designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Carpentry",
+    "duration": "4 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac58",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000100000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb0",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb1",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb2",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb3",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb4",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Carpentry",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac68",
+      "6a4f4a93dfebdfca1ae4ac69"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acb5",
+    "title": "Healthy Cooking & Baking Basics",
+    "description": "Learn the fundamentals of Healthy Cooking & Baking Basics designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Cooking",
+    "duration": "3 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac59",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000110000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb6",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb7",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb8",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acb9",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acba",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Cooking",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac6a"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acbb",
+    "title": "Launch Your Business: Entrepreneurship",
+    "description": "Learn the fundamentals of Launch Your Business: Entrepreneurship designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Entrepreneurship",
+    "duration": "6 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5a",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000120000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acbc",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acbd",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acbe",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acbf",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc0",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Entrepreneurship",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac6a",
+      "6a4f4a93dfebdfca1ae4ac6b"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acc1",
+    "title": "Spoken English & Communication Skills",
+    "description": "Learn the fundamentals of Spoken English & Communication Skills designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Communication Skills",
+    "duration": "4 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5b",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000130000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc2",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc3",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc4",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc5",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc6",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Communication Skills",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac6c"
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acc7",
+    "title": "Advanced Robotics and Automation",
+    "description": "Learn the fundamentals of Advanced Robotics and Automation designed for school students. This course includes step-by-step video lessons, PDF reading materials, and a practical portfolio project assignment evaluated by industry experts.",
+    "category": "Robotics",
+    "duration": "8 weeks",
+    "instructor": "6a4f4a93dfebdfca1ae4ac5c",
+    "thumbnailImage": "https://images.unsplash.com/photo-1500000140000?auto=format&fit=crop&w=800&q=80",
+    "videoLessons": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc8",
+        "title": "Lesson 1: Welcome and Course Overview",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "10 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acc9",
+        "title": "Lesson 2: Basic Concepts and Principles",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "15 mins"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acca",
+        "title": "Lesson 3: Advanced Applications and Demos",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "duration": "20 mins"
+      }
+    ],
+    "pdfNotes": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4accb",
+        "title": "Course Syllabus PDF",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4accc",
+        "title": "Lecture Study Guide",
+        "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "learningOutcomes": [
+      "Understand the absolute fundamentals of Robotics",
+      "Build practical skills through hands-on workbook exercises",
+      "Earn a verifiable digital certificate recognized by partners"
+    ],
+    "enrolledStudents": [
+      "6a4f4a93dfebdfca1ae4ac6c",
+      "6a4f4a93dfebdfca1ae4ac6d"
+    ]
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac57",
+    "name": "Super Administrator",
+    "email": "admin@skillbridge.gov.in",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Super Admin",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "ADMIN-001"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac58",
+    "name": "Teacher 1",
+    "email": "teacher1@skillbridge.gov.in",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Teacher",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-T101"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac59",
+    "name": "Teacher 2",
+    "email": "teacher2@skillbridge.gov.in",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Teacher",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-T102"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac5a",
+    "name": "Teacher 3",
+    "email": "teacher3@skillbridge.gov.in",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Teacher",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-T103"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac5b",
+    "name": "Teacher 4",
+    "email": "teacher4@skillbridge.gov.in",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Teacher",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-T104"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac5c",
+    "name": "Teacher 5",
+    "email": "teacher5@skillbridge.gov.in",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Teacher",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-T105"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac5d",
+    "name": "Mentor Partner 1",
+    "email": "mentor1@industry.com",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Industry Partner",
+    "status": "Active",
+    "badges": [],
+    "companyName": "RoboTech Labs"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac5e",
+    "name": "Mentor Partner 2",
+    "email": "mentor2@industry.com",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Industry Partner",
+    "status": "Active",
+    "badges": [],
+    "companyName": "Agritech India"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac5f",
+    "name": "Student Learner 1",
+    "email": "student1@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [
+      {
+        "title": "Intro to Robotics Badge",
+        "criteria": "Completed basic assessment",
+        "date": "2026-07-09T07:15:31.710Z"
+      }
+    ],
+    "schoolId": "SCH-S1001"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac60",
+    "name": "Student Learner 2",
+    "email": "student2@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [
+      {
+        "title": "Intro to Robotics Badge",
+        "criteria": "Completed basic assessment",
+        "date": "2026-07-09T07:15:31.711Z"
+      }
+    ],
+    "schoolId": "SCH-S1002"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac61",
+    "name": "Student Learner 3",
+    "email": "student3@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [
+      {
+        "title": "Intro to Robotics Badge",
+        "criteria": "Completed basic assessment",
+        "date": "2026-07-09T07:15:31.711Z"
+      }
+    ],
+    "schoolId": "SCH-S1003"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac62",
+    "name": "Student Learner 4",
+    "email": "student4@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [
+      {
+        "title": "Intro to Robotics Badge",
+        "criteria": "Completed basic assessment",
+        "date": "2026-07-09T07:15:31.711Z"
+      }
+    ],
+    "schoolId": "SCH-S1004"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac63",
+    "name": "Student Learner 5",
+    "email": "student5@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [
+      {
+        "title": "Intro to Robotics Badge",
+        "criteria": "Completed basic assessment",
+        "date": "2026-07-09T07:15:31.711Z"
+      }
+    ],
+    "schoolId": "SCH-S1005"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac64",
+    "name": "Student Learner 6",
+    "email": "student6@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1006"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac65",
+    "name": "Student Learner 7",
+    "email": "student7@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1007"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac66",
+    "name": "Student Learner 8",
+    "email": "student8@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1008"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac67",
+    "name": "Student Learner 9",
+    "email": "student9@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1009"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac68",
+    "name": "Student Learner 10",
+    "email": "student10@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1010"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac69",
+    "name": "Student Learner 11",
+    "email": "student11@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1011"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac6a",
+    "name": "Student Learner 12",
+    "email": "student12@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1012"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac6b",
+    "name": "Student Learner 13",
+    "email": "student13@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1013"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac6c",
+    "name": "Student Learner 14",
+    "email": "student14@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1014"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac6d",
+    "name": "Student Learner 15",
+    "email": "student15@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1015"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac6e",
+    "name": "Student Learner 16",
+    "email": "student16@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1016"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac6f",
+    "name": "Student Learner 17",
+    "email": "student17@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1017"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac70",
+    "name": "Student Learner 18",
+    "email": "student18@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1018"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac71",
+    "name": "Student Learner 19",
+    "email": "student19@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1019"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ac72",
+    "name": "Student Learner 20",
+    "email": "student20@school.edu",
+    "password": "$2b$10$K8HBQQUgDh3BNkFjV3lCpewccsMH1wow4Z824VF8zujBUa5Vz0TLm",
+    "role": "Student",
+    "status": "Active",
+    "badges": [],
+    "schoolId": "SCH-S1020"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad10",
+    "studentId": "6a4f4a93dfebdfca1ae4ac5f",
+    "courseId": "6a4f4a93dfebdfca1ae4ac73",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac74",
+      "6a4f4a93dfebdfca1ae4ac75",
+      "6a4f4a93dfebdfca1ae4ac76"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.712Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad13",
+    "studentId": "6a4f4a93dfebdfca1ae4ac60",
+    "courseId": "6a4f4a93dfebdfca1ae4ac79",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac7a",
+      "6a4f4a93dfebdfca1ae4ac7b",
+      "6a4f4a93dfebdfca1ae4ac7c"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.712Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad16",
+    "studentId": "6a4f4a93dfebdfca1ae4ac60",
+    "courseId": "6a4f4a93dfebdfca1ae4ac7f",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac80",
+      "6a4f4a93dfebdfca1ae4ac81",
+      "6a4f4a93dfebdfca1ae4ac82"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.712Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad19",
+    "studentId": "6a4f4a93dfebdfca1ae4ac61",
+    "courseId": "6a4f4a93dfebdfca1ae4ac7f",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac80",
+      "6a4f4a93dfebdfca1ae4ac81",
+      "6a4f4a93dfebdfca1ae4ac82"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.712Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad1c",
+    "studentId": "6a4f4a93dfebdfca1ae4ac62",
+    "courseId": "6a4f4a93dfebdfca1ae4ac85",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac86",
+      "6a4f4a93dfebdfca1ae4ac87",
+      "6a4f4a93dfebdfca1ae4ac88"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad1f",
+    "studentId": "6a4f4a93dfebdfca1ae4ac62",
+    "courseId": "6a4f4a93dfebdfca1ae4ac8b",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac8c",
+      "6a4f4a93dfebdfca1ae4ac8d",
+      "6a4f4a93dfebdfca1ae4ac8e"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad22",
+    "studentId": "6a4f4a93dfebdfca1ae4ac63",
+    "courseId": "6a4f4a93dfebdfca1ae4ac8b",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac8c",
+      "6a4f4a93dfebdfca1ae4ac8d",
+      "6a4f4a93dfebdfca1ae4ac8e"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad25",
+    "studentId": "6a4f4a93dfebdfca1ae4ac64",
+    "courseId": "6a4f4a93dfebdfca1ae4ac91",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac92",
+      "6a4f4a93dfebdfca1ae4ac93",
+      "6a4f4a93dfebdfca1ae4ac94"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad28",
+    "studentId": "6a4f4a93dfebdfca1ae4ac64",
+    "courseId": "6a4f4a93dfebdfca1ae4ac97",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac98",
+      "6a4f4a93dfebdfca1ae4ac99",
+      "6a4f4a93dfebdfca1ae4ac9a"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad2b",
+    "studentId": "6a4f4a93dfebdfca1ae4ac65",
+    "courseId": "6a4f4a93dfebdfca1ae4ac97",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac98",
+      "6a4f4a93dfebdfca1ae4ac99",
+      "6a4f4a93dfebdfca1ae4ac9a"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad2e",
+    "studentId": "6a4f4a93dfebdfca1ae4ac66",
+    "courseId": "6a4f4a93dfebdfca1ae4ac9d",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac9e",
+      "6a4f4a93dfebdfca1ae4ac9f",
+      "6a4f4a93dfebdfca1ae4aca0"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad31",
+    "studentId": "6a4f4a93dfebdfca1ae4ac66",
+    "courseId": "6a4f4a93dfebdfca1ae4aca3",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4aca4",
+      "6a4f4a93dfebdfca1ae4aca5",
+      "6a4f4a93dfebdfca1ae4aca6"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad34",
+    "studentId": "6a4f4a93dfebdfca1ae4ac67",
+    "courseId": "6a4f4a93dfebdfca1ae4aca3",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4aca4",
+      "6a4f4a93dfebdfca1ae4aca5",
+      "6a4f4a93dfebdfca1ae4aca6"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad37",
+    "studentId": "6a4f4a93dfebdfca1ae4ac68",
+    "courseId": "6a4f4a93dfebdfca1ae4aca9",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acaa",
+      "6a4f4a93dfebdfca1ae4acab",
+      "6a4f4a93dfebdfca1ae4acac"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad3a",
+    "studentId": "6a4f4a93dfebdfca1ae4ac68",
+    "courseId": "6a4f4a93dfebdfca1ae4acaf",
+    "progress": 100,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acb0",
+      "6a4f4a93dfebdfca1ae4acb1",
+      "6a4f4a93dfebdfca1ae4acb2"
+    ],
+    "completed": true,
+    "completedDate": "2026-07-09T07:15:31.713Z"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad3d",
+    "studentId": "6a4f4a93dfebdfca1ae4ac69",
+    "courseId": "6a4f4a93dfebdfca1ae4acaf",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acb0"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad3f",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6a",
+    "courseId": "6a4f4a93dfebdfca1ae4acb5",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acb6"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad41",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6a",
+    "courseId": "6a4f4a93dfebdfca1ae4acbb",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acbc"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad43",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6b",
+    "courseId": "6a4f4a93dfebdfca1ae4acbb",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acbc"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad45",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6c",
+    "courseId": "6a4f4a93dfebdfca1ae4acc1",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acc2"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad47",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6c",
+    "courseId": "6a4f4a93dfebdfca1ae4acc7",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acc8"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad49",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6d",
+    "courseId": "6a4f4a93dfebdfca1ae4acc7",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4acc8"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad4b",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6e",
+    "courseId": "6a4f4a93dfebdfca1ae4ac73",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac74"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad4c",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6e",
+    "courseId": "6a4f4a93dfebdfca1ae4ac79",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac7a"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad4d",
+    "studentId": "6a4f4a93dfebdfca1ae4ac6f",
+    "courseId": "6a4f4a93dfebdfca1ae4ac79",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac7a"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad4e",
+    "studentId": "6a4f4a93dfebdfca1ae4ac70",
+    "courseId": "6a4f4a93dfebdfca1ae4ac7f",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac80"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad4f",
+    "studentId": "6a4f4a93dfebdfca1ae4ac70",
+    "courseId": "6a4f4a93dfebdfca1ae4ac85",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac86"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad50",
+    "studentId": "6a4f4a93dfebdfca1ae4ac71",
+    "courseId": "6a4f4a93dfebdfca1ae4ac85",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac86"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad51",
+    "studentId": "6a4f4a93dfebdfca1ae4ac72",
+    "courseId": "6a4f4a93dfebdfca1ae4ac8b",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac8c"
+    ],
+    "completed": false,
+    "completedDate": null
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad52",
+    "studentId": "6a4f4a93dfebdfca1ae4ac72",
+    "courseId": "6a4f4a93dfebdfca1ae4ac91",
+    "progress": 33,
+    "completedLessons": [
+      "6a4f4a93dfebdfca1ae4ac92"
+    ],
+    "completed": false,
+    "completedDate": null
+  }
+]

@@ -1,0 +1,761 @@
+[
+  {
+    "_id": "6a4f4a93dfebdfca1ae4accd",
+    "courseId": "6a4f4a93dfebdfca1ae4ac73",
+    "title": "Robotics Workshop for Beginners Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acce",
+        "questionText": "Quiz Question 1 for Robotics Workshop for Beginners: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4accf",
+        "questionText": "Quiz Question 2 for Robotics Workshop for Beginners: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd0",
+        "questionText": "Quiz Question 3 for Robotics Workshop for Beginners: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acd1",
+    "courseId": "6a4f4a93dfebdfca1ae4ac79",
+    "title": "Introduction to Artificial Intelligence Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd2",
+        "questionText": "Quiz Question 1 for Introduction to Artificial Intelligence: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd3",
+        "questionText": "Quiz Question 2 for Introduction to Artificial Intelligence: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd4",
+        "questionText": "Quiz Question 3 for Introduction to Artificial Intelligence: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd5",
+        "questionText": "Quiz Question 4 for Introduction to Artificial Intelligence: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acd6",
+    "courseId": "6a4f4a93dfebdfca1ae4ac7f",
+    "title": "Python Programming Essentials Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd7",
+        "questionText": "Quiz Question 1 for Python Programming Essentials: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd8",
+        "questionText": "Quiz Question 2 for Python Programming Essentials: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acd9",
+        "questionText": "Quiz Question 3 for Python Programming Essentials: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acda",
+    "courseId": "6a4f4a93dfebdfca1ae4ac85",
+    "title": "Responsive Web Design Mastery Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acdb",
+        "questionText": "Quiz Question 1 for Responsive Web Design Mastery: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acdc",
+        "questionText": "Quiz Question 2 for Responsive Web Design Mastery: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acdd",
+        "questionText": "Quiz Question 3 for Responsive Web Design Mastery: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acde",
+        "questionText": "Quiz Question 4 for Responsive Web Design Mastery: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acdf",
+    "courseId": "6a4f4a93dfebdfca1ae4ac8b",
+    "title": "Graphic Design and UI layouts Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace0",
+        "questionText": "Quiz Question 1 for Graphic Design and UI layouts: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace1",
+        "questionText": "Quiz Question 2 for Graphic Design and UI layouts: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace2",
+        "questionText": "Quiz Question 3 for Graphic Design and UI layouts: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ace3",
+    "courseId": "6a4f4a93dfebdfca1ae4ac91",
+    "title": "Digital Marketing Fundamentals Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace4",
+        "questionText": "Quiz Question 1 for Digital Marketing Fundamentals: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace5",
+        "questionText": "Quiz Question 2 for Digital Marketing Fundamentals: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace6",
+        "questionText": "Quiz Question 3 for Digital Marketing Fundamentals: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace7",
+        "questionText": "Quiz Question 4 for Digital Marketing Fundamentals: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ace8",
+    "courseId": "6a4f4a93dfebdfca1ae4ac97",
+    "title": "House Wiring & Electrical Basics Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ace9",
+        "questionText": "Quiz Question 1 for House Wiring & Electrical Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acea",
+        "questionText": "Quiz Question 2 for House Wiring & Electrical Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aceb",
+        "questionText": "Quiz Question 3 for House Wiring & Electrical Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acec",
+    "courseId": "6a4f4a93dfebdfca1ae4ac9d",
+    "title": "Electronics and Microcontrollers Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4aced",
+        "questionText": "Quiz Question 1 for Electronics and Microcontrollers: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acee",
+        "questionText": "Quiz Question 2 for Electronics and Microcontrollers: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acef",
+        "questionText": "Quiz Question 3 for Electronics and Microcontrollers: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf0",
+        "questionText": "Quiz Question 4 for Electronics and Microcontrollers: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acf1",
+    "courseId": "6a4f4a93dfebdfca1ae4aca3",
+    "title": "Modern Sustainable Agriculture Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf2",
+        "questionText": "Quiz Question 1 for Modern Sustainable Agriculture: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf3",
+        "questionText": "Quiz Question 2 for Modern Sustainable Agriculture: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf4",
+        "questionText": "Quiz Question 3 for Modern Sustainable Agriculture: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acf5",
+    "courseId": "6a4f4a93dfebdfca1ae4aca9",
+    "title": "Basic Fashion & Apparel Design Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf6",
+        "questionText": "Quiz Question 1 for Basic Fashion & Apparel Design: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf7",
+        "questionText": "Quiz Question 2 for Basic Fashion & Apparel Design: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf8",
+        "questionText": "Quiz Question 3 for Basic Fashion & Apparel Design: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acf9",
+        "questionText": "Quiz Question 4 for Basic Fashion & Apparel Design: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acfa",
+    "courseId": "6a4f4a93dfebdfca1ae4acaf",
+    "title": "Woodworking & Carpentry Basics Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acfb",
+        "questionText": "Quiz Question 1 for Woodworking & Carpentry Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acfc",
+        "questionText": "Quiz Question 2 for Woodworking & Carpentry Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acfd",
+        "questionText": "Quiz Question 3 for Woodworking & Carpentry Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4acfe",
+    "courseId": "6a4f4a93dfebdfca1ae4acb5",
+    "title": "Healthy Cooking & Baking Basics Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4acff",
+        "questionText": "Quiz Question 1 for Healthy Cooking & Baking Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad00",
+        "questionText": "Quiz Question 2 for Healthy Cooking & Baking Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad01",
+        "questionText": "Quiz Question 3 for Healthy Cooking & Baking Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad02",
+        "questionText": "Quiz Question 4 for Healthy Cooking & Baking Basics: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad03",
+    "courseId": "6a4f4a93dfebdfca1ae4acbb",
+    "title": "Launch Your Business: Entrepreneurship Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad04",
+        "questionText": "Quiz Question 1 for Launch Your Business: Entrepreneurship: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad05",
+        "questionText": "Quiz Question 2 for Launch Your Business: Entrepreneurship: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad06",
+        "questionText": "Quiz Question 3 for Launch Your Business: Entrepreneurship: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad07",
+    "courseId": "6a4f4a93dfebdfca1ae4acc1",
+    "title": "Spoken English & Communication Skills Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad08",
+        "questionText": "Quiz Question 1 for Spoken English & Communication Skills: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad09",
+        "questionText": "Quiz Question 2 for Spoken English & Communication Skills: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad0a",
+        "questionText": "Quiz Question 3 for Spoken English & Communication Skills: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad0b",
+        "questionText": "Quiz Question 4 for Spoken English & Communication Skills: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad0c",
+    "courseId": "6a4f4a93dfebdfca1ae4acc7",
+    "title": "Advanced Robotics and Automation Assessment",
+    "duration": 15,
+    "negativeMarking": 1,
+    "questions": [
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad0d",
+        "questionText": "Quiz Question 1 for Advanced Robotics and Automation: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad0e",
+        "questionText": "Quiz Question 2 for Advanced Robotics and Automation: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      },
+      {
+        "_id": "6a4f4a93dfebdfca1ae4ad0f",
+        "questionText": "Quiz Question 3 for Advanced Robotics and Automation: Which of the following best defines this topic?",
+        "options": [
+          "Option A: This is a standard incorrect response.",
+          "Option B: This represents the correct response.",
+          "Option C: Another incorrect distracter.",
+          "Option D: None of the above."
+        ],
+        "correctOption": 1,
+        "marks": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad12",
+    "studentId": "6a4f4a93dfebdfca1ae4ac5f",
+    "courseId": "6a4f4a93dfebdfca1ae4ac73",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac58",
+    "issueDate": "2026-07-09T07:15:31.712Z",
+    "certificateId": "CERT-A5BQOJZ-MRD69VCW",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-A5BQOJZ-MRD69VCW"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad15",
+    "studentId": "6a4f4a93dfebdfca1ae4ac60",
+    "courseId": "6a4f4a93dfebdfca1ae4ac79",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac59",
+    "issueDate": "2026-07-09T07:15:31.712Z",
+    "certificateId": "CERT-RY3D49E-MRD69VCW",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-RY3D49E-MRD69VCW"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad18",
+    "studentId": "6a4f4a93dfebdfca1ae4ac60",
+    "courseId": "6a4f4a93dfebdfca1ae4ac7f",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5a",
+    "issueDate": "2026-07-09T07:15:31.712Z",
+    "certificateId": "CERT-Y7C9ZFP-MRD69VCW",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-Y7C9ZFP-MRD69VCW"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad1b",
+    "studentId": "6a4f4a93dfebdfca1ae4ac61",
+    "courseId": "6a4f4a93dfebdfca1ae4ac7f",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5a",
+    "issueDate": "2026-07-09T07:15:31.712Z",
+    "certificateId": "CERT-NJM6HZ4-MRD69VCW",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-NJM6HZ4-MRD69VCW"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad1e",
+    "studentId": "6a4f4a93dfebdfca1ae4ac62",
+    "courseId": "6a4f4a93dfebdfca1ae4ac85",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5b",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-NP9DMRY-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-NP9DMRY-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad21",
+    "studentId": "6a4f4a93dfebdfca1ae4ac62",
+    "courseId": "6a4f4a93dfebdfca1ae4ac8b",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5c",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-J8SLDS0-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-J8SLDS0-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad24",
+    "studentId": "6a4f4a93dfebdfca1ae4ac63",
+    "courseId": "6a4f4a93dfebdfca1ae4ac8b",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5c",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-OG8ZZW9-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-OG8ZZW9-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad27",
+    "studentId": "6a4f4a93dfebdfca1ae4ac64",
+    "courseId": "6a4f4a93dfebdfca1ae4ac91",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac58",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-JJ23F13-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-JJ23F13-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad2a",
+    "studentId": "6a4f4a93dfebdfca1ae4ac64",
+    "courseId": "6a4f4a93dfebdfca1ae4ac97",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac59",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-ROHSKY8-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-ROHSKY8-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad2d",
+    "studentId": "6a4f4a93dfebdfca1ae4ac65",
+    "courseId": "6a4f4a93dfebdfca1ae4ac97",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac59",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-SAM7NAD-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-SAM7NAD-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad30",
+    "studentId": "6a4f4a93dfebdfca1ae4ac66",
+    "courseId": "6a4f4a93dfebdfca1ae4ac9d",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5a",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-7O5FPCN-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-7O5FPCN-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad33",
+    "studentId": "6a4f4a93dfebdfca1ae4ac66",
+    "courseId": "6a4f4a93dfebdfca1ae4aca3",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5b",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-YUNRDMV-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-YUNRDMV-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad36",
+    "studentId": "6a4f4a93dfebdfca1ae4ac67",
+    "courseId": "6a4f4a93dfebdfca1ae4aca3",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5b",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-DE488Y3-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-DE488Y3-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad39",
+    "studentId": "6a4f4a93dfebdfca1ae4ac68",
+    "courseId": "6a4f4a93dfebdfca1ae4aca9",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac5c",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-LMY9URR-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-LMY9URR-MRD69VCX"
+  },
+  {
+    "_id": "6a4f4a93dfebdfca1ae4ad3c",
+    "studentId": "6a4f4a93dfebdfca1ae4ac68",
+    "courseId": "6a4f4a93dfebdfca1ae4acaf",
+    "instructorId": "6a4f4a93dfebdfca1ae4ac58",
+    "issueDate": "2026-07-09T07:15:31.713Z",
+    "certificateId": "CERT-AZFIX4H-MRD69VCX",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://skillbridge.gov.in/verify/CERT-AZFIX4H-MRD69VCX"
+  }
+]
