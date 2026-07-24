@@ -182,7 +182,7 @@ const CourseDetails = () => {
             
             <div className="mt-4 space-y-3">
               {course.videoLessons && course.videoLessons.map((lesson, idx) => {
-                const isCompleted = enrollment?.completedLessons.includes(lesson._id);
+                const isCompleted = enrollment?.completedLessons ? enrollment.completedLessons.includes(lesson._id) : false;
                 return (
                   <div 
                     key={lesson._id}

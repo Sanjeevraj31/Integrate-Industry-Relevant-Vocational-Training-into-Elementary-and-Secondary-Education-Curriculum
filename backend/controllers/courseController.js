@@ -179,7 +179,8 @@ const updateProgress = async (req, res) => {
     }
 
     const totalLessons = (course.videoLessons ? course.videoLessons.length : 0);
-    const completedLessons = [...enrollment.completedLessons, lessonId];
+    const currentCompleted = enrollment.completedLessons || [];
+    const completedLessons = [...currentCompleted, lessonId];
     
     // Calculate progress
     const progress = totalLessons > 0 ? Math.round((completedLessons.length / totalLessons) * 100) : 100;
